@@ -1,0 +1,46 @@
+/* Geral */
+*{
+  margin: 0;
+  font-family: helvetica;
+}
+
+/*barra de navegação*/
+nav{
+  background-color: #101010;
+  height: 50px;
+  border-bottom: 4px solid #00ff2a;
+}
+
+#logo{
+  color: #00ff2a;
+  font-weight: bold;
+  position: absolute;
+  text-decoration: none;
+  top: 15px;
+  margin-left: 50%;
+
+}
+
+#menu{
+  list-style: none;
+  float: left;
+  margin-top: 17px;
+  padding: 0;
+}
+
+.item{
+  display: inline-block;  
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+.item a{
+  color: #00ff2a;
+  text-decoration: none;
+   
+}
+
+.item a:hover{
+  color: #fff;
+  transition: .5s;
+}
