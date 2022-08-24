@@ -1,0 +1,65 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+
+#top{
+  background-color: #303030;  
+  border: 2px solid #fff;
+  
+}
+
+#top a img{
+  width: 5%;
+}
+
+#menu{
+  float: right; 
+  margin: 20px;
+     
+}
+
+#menu ul li{
+  list-style: none;
+  display: inline-block; 
+}
+
+#menu li a{
+  text-decoration: none;
+  color: #ff9900;
+  margin: 4px;
+}
+
+aside{
+  margin-top: 0;
+  background-color: #fff;
+  width: 18%;
+  display: block;  
+  text-align: center;
+  float: right;
+
+  
+}
+
+#lateral ul{
+  margin: 1px 0px 500px;
+  list-style: none;
+  font-size: 20px;
+}
+
+#lateral li a{
+  font-size: 25px;
+  margin: 5px;
+  color: #ff9900;
+  text-decoration: none;
+}
+
+#lateral{
+  background-color: #303030;
+  border: 1px solid #fff;  
+  
+}
+

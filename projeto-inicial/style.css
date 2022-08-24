@@ -1,0 +1,13 @@
+article{
+  margin: 2px;  
+  padding: 2px;
+  border: 2px solid #fff;
+  text-align: center;
+  display: inline-block;
+  width: 81%;
+  background-color: #303030;  
+}
+
+article h1{
+  color: #ff9900;
+}
