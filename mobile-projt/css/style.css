@@ -1,0 +1,104 @@
+/* reset */
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, sans-serif;
+}
+
+body{
+  background-color: #101010;
+  
+}
+
+#destaque{
+  text-align: center;
+  margin-top: 40px;
+  background-color: #00FA9A;
+  padding: 5px; 
+}
+
+#destaque p{
+  font-size: 28px;
+}
+
+/* galeria */
+
+.conteiner {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #D3D3D3;
+  border-radius: 5px;
+  
+}
+
+.conteiner p{
+  font-size: 20px;
+  font-family: 'Arial Narrow', sans-serif;
+}
+
+.card {  
+  width: 200px;
+  margin: 25px;
+  border: 2px solid #00FA9A;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.card-image {
+  height: 200px;
+  background-size: cover;
+}
+
+.card-1 .card-image {
+  background-image: url("../img/card-1.png");  
+}
+.card-1{
+  background-color: #fff;
+}
+
+.card-2 .card-image {
+  background-image: url("../img/card-2.png");  
+}
+.card-2{
+  background-color: #fff;
+}
+
+.card-3 .card-image {
+  background-image: url("../img/card-3.png");
+}
+.card-3{
+  background-color: #fff;
+}
+
+.card-4 .card-image {
+  background-image: url("../img/card-4.png");
+}
+.card-4{
+  background-color: #fff;
+}
+
+.btn{
+  display: block;
+  background-color: #00FA9A;
+  color: #303030;
+  margin-top: 20px;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  transition: .5s;
+  border-radius: 5px;
+}
+
+.btn:hover{
+  background-color: #303030;
+  color: #00FA9A;
+  border-color: #00FA9A;
+}
+
+.card-description {
+  padding: 20px 10px;
+
+}
+
