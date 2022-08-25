@@ -48,7 +48,7 @@
 nav{
   background-color: #00FA9A;
   height: 27px;
-  border-bottom: 1px solid #D3D3D3;
+  border-bottom: 2px solid #D3D3D3;
 }
 
 
@@ -80,9 +80,10 @@ nav{
   background-color: #00FA9A;
   color: #303030;
   margin-top: 40px;
-  padding: 5px;
-  border-top: 1px solid #D3D3D3;
+  padding: 2px;
+  border-top: 2px solid #D3D3D3;
   font-size: 20px;
-  font-weight: bold;  
+  font-weight: bold;
+
 }
 

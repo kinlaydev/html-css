@@ -19,7 +19,11 @@ body{
 }
 
 #destaque p{
-  font-size: 28px;
+  font-size: 20px;
+}
+
+#destaque h1{
+  font-size: 32px;
 }
 
 /* galeria */
@@ -84,6 +88,7 @@ body{
   background-color: #00FA9A;
   color: #303030;
   margin-top: 20px;
+  padding: 3px;
   text-decoration: none;
   border: 2px solid transparent;
   font-weight: bold;
