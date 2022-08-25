@@ -27,11 +27,11 @@ h1 {
   
 }
 
-.card {
-  display: inline-block;
+.card {  
   width: 200px;
   margin: 25px;
   border: 1px solid #4a87e8;
+  display: inline-block;
 }
 
 .card-image {
